@@ -1,7 +1,8 @@
 '''
     Lalit D. Chandwani
-    Created on: 2 April 2018
+    Date Created: 2 April 2018
     Last modified: 2 April 2018
+    Coded with Python 3
 '''
 import datetime, tweepy
 #Twitter API App Settings:
