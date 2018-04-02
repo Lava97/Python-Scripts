@@ -1,3 +1,8 @@
+'''
+    Lalit D. Chandwani
+    Created on: 2 April 2018
+    Last modified: 2 April 2018
+'''
 import datetime, tweepy
 #Twitter API App Settings:
 #Consumer Key for Twitter
