@@ -1,4 +1,3 @@
-from tweepy.auth import OAuthHandler
 import datetime, tweepy
 #Twitter API App Settings:
 #Consumer Key for Twitter
